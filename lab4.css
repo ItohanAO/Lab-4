@@ -19,16 +19,27 @@ header{
 a{
     text-decoration: none;
 }
-h1,h2,h3,h4,h5,h6{
-   text-decoration: underline dashed;
-}
+
 .bold-text{
     font-weight: bold;
 }
-.intro{
-    font-weight: 300;
-}
+
 .headings{
     text-decoration-line: underline;
     text-decoration-style: dashed;
+}
+#intro{
+    font-weight: 300;
+}
+.font{
+    font-family: Arial, sans-serif;
+}
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
+.uppercase-heading{
+    text-transform: uppercase;
+}
+.capitalize-text{
+    text-transform: capitalize;
 }
