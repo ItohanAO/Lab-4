@@ -16,3 +16,6 @@ header{
 .center-text{
     text-align: center;
 }
+a{
+    text-decoration: none;
+}
