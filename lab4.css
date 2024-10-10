@@ -1,0 +1,13 @@
+header{
+    color: white; background-color: blue;
+}
+.container{
+    color: black; background-color: lightgray;
+}
+.container p{
+    color: red;
+}
+.highlight{
+    color: green;
+}
+    
