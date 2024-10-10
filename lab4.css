@@ -13,3 +13,6 @@ header{
 .main-content{
     background-color: yellow;
 }
+.center-text{
+    text-align: center;
+}
