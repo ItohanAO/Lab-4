@@ -10,4 +10,6 @@ header{
 .highlight{
     color: green;
 }
-    
+.main-content{
+    background-color: yellow;
+}
